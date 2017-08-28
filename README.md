@@ -1,5 +1,4 @@
 # Arduino Pong
-By Stephen Miller
 
 A simple two player Pong game, made using Arduino UNO and TVout Library.
 
