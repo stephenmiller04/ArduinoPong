@@ -21,4 +21,4 @@ Connect everything to the right place, then grab an RCA cable, it has two cables
 If you are done everything right, the game will show up on the connected Monitor/TV, push the button and you can play the game, enjoy!
 
 Stephen Miller © 2017
-[www.stephenmiller.hu](www.stephenmiller.hu)
+[www.stephenmiller.hu](http://www.stephenmiller.hu)
